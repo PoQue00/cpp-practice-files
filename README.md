@@ -74,4 +74,8 @@ This repository is an independent collection of learning exercises and is not af
 
 ## License
 
-No license has been selected for this repository yet. Until one is added, all rights are reserved by the repository owner.
+This project is released into the public domain under [The Unlicense](https://unlicense.org/).
+
+You are free to use, copy, modify, publish, distribute, sublicense, and sell the code without asking for permission or providing attribution.
+
+The software is provided without warranty. Please see the [LICENSE](LICENSE) file for the complete license text.
