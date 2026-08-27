@@ -31,7 +31,6 @@ INFO STUFF/
 |-- Pointers/
 |-- Sorting Arrays/
 |-- Structs/
-|-- Temp_Converter/
 `-- ...
 ```
 
